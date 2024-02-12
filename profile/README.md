@@ -8,5 +8,6 @@ As BCG X we support Open Source because we believe in empowering the global deve
 
 ## Our packages
 
+- [AgentKit](https://github.com/BCG-X-Official/agentkit) - A LangChain-based starter kit developed to build Agent apps. 
 - [FACET](https://github.com/BCG-X-Official/facet) - A toolbox for human-explainable AI, combining model inspection and model-based simulation to enable better explanations of supervised machine learning models.
 - [sklearndf](https://github.com/BCG-X-Official/sklearndf) - A library to bring first-class dataframe support to scikit-learn, enabling the preservation of dataframe structures, combined with feature name tracing.

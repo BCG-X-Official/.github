@@ -8,8 +8,8 @@ As BCG X we support Open Source because we believe in empowering the global deve
 
 ## Our packages
 
-- [ARTKIT](https://github.com/BCG-X-Official/artkit) - A Python framework for automating prompt-based testing and evaluation of Gen AI applications.
-- [fluxus](https://github.com/BCG-X-Official/fluxus) - A Python framework to streamline the development of complex data flows.
-- [AgentKit](https://github.com/BCG-X-Official/agentkit) - A LangChain-based starter kit developed to build Agent apps. 
-- [FACET](https://github.com/BCG-X-Official/facet) - A toolbox for human-explainable AI, combining model inspection and model-based simulation to enable better explanations of supervised machine learning models.
-- [sklearndf](https://github.com/BCG-X-Official/sklearndf) - A library to bring first-class dataframe support to scikit-learn, enabling the preservation of dataframe structures, combined with feature name tracing.
+- [ARTKIT](https://github.com/BCG-X-Official/artkit) - A Python framework for automating prompt-based testing and evaluation of Gen AI applications
+- [fluxus](https://github.com/BCG-X-Official/fluxus) - A Python framework to streamline the development of complex data flows
+- [AgentKit](https://github.com/BCG-X-Official/agentkit) - A LangChain-based starter kit developed to build Agent apps
+- [FACET](https://github.com/BCG-X-Official/facet) - A Python toolset for human-explainable AI, combining model inspection and model-based simulation to enable better explanations of supervised machine learning models
+- [sklearndf](https://github.com/BCG-X-Official/sklearndf) - A Python library to bring first-class dataframe support to scikit-learn, enabling the preservation of dataframe structures, combined with feature name tracing

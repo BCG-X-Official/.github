@@ -6,10 +6,9 @@ BCG X brings the world’s greatest design, technology, and entrepreneurial tale
 As BCG X we support Open Source because we believe in empowering the global developer community to build with the best tech we have available internally.
 
 
-## Our packages
+## Key packages
 
 - [ARTKIT](https://github.com/BCG-X-Official/artkit) - A Python framework for automating prompt-based testing and evaluation of Gen AI applications
-- **[DEPRECATED]** [AgentKit](https://github.com/BCG-X-Official/agentkit) - A LangChain-based starter kit developed to build Agent apps
 - [FACET](https://github.com/BCG-X-Official/facet) - A Python toolset for human-explainable AI, combining model inspection and model-based simulation to enable better explanations of supervised machine learning models
 - [fluxus](https://github.com/BCG-X-Official/fluxus) - A Python framework to streamline the development of complex, concurrent data flows
 - [sklearndf](https://github.com/BCG-X-Official/sklearndf) - A Python library to bring first-class dataframe support to scikit-learn, enabling the preservation of dataframe structures, combined with feature name tracing
